@@ -1,0 +1,14 @@
+#include <iostream>
+#include <fstream>
+#include "headers.h"
+
+using namespace std;
+
+int main()
+{
+    Pytanie pyt1;
+    
+    
+    cout << "Hello world!" << endl;
+    return 0;
+}
